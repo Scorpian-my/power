@@ -18,4 +18,4 @@ COPY . .
 
 
 
-CMD ["python3", "test.py"]
+CMD ["python3", "main.py"]
